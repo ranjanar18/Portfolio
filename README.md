@@ -211,10 +211,9 @@ Upload to GitHub Pages for free hosting.
 </html>
 
 ## OUTPUT
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](image.png)
 
-The portfolio website is displayed successfully in the web browser.
+![alt text](image-1.png)
 
 
 ## RESULT
